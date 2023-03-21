@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ibrahimhozhun
 - 👀 I’m interested in Fullstack Development. 
-- 🌱 I’m currently working on projects to make a good portfolio (I'll create a website for it soon)
-- 📫 Feel free to [text me on Telegram](https://t.me/ibrahimhozhun) for anything!
+- 🌱 I’m currently working on projects to make a good portfolio (hopefully I'll have some spare time soon from school so I'd be able to create a website for it soon)
 
 # Tech Stacks
   - Node.js
   - React.js
+  - UI/UX Design
   - Vue.js
   - Typescript
   - Flutter
